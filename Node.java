@@ -1,5 +1,3 @@
-package cs361proj2;
-
 public class Node extends BT {
   int num;
   BT left;
