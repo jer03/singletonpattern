@@ -1,5 +1,3 @@
-package cs361proj2;
-
 public abstract class BT {
 
   public abstract int height();
